@@ -8,7 +8,6 @@
 */
 
 @import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
-@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --background-image: url('https://c4.wallpaperflare.com/wallpaper/774/216/980/serial-experiments-lain-cyberpunk-hd-wallpaper-preview.jpg');
@@ -21,4 +20,5 @@
 }
 
 /* Any custom CSS below here */
+
 
