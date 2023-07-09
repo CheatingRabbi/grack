@@ -1,0 +1,24 @@
+/**
+ * @name lain
+ * @author Tropical#8908, Hammock#3110
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+ * @BDEditor Dark Matter
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --background-image: url('https://c4.wallpaperflare.com/wallpaper/774/216/980/serial-experiments-lain-cyberpunk-hd-wallpaper-preview.jpg');
+  --home-image: url('https://64.media.tumblr.com/d2a13e1379f282c203345e6839d8be23/3180409a2cbe85c0-88/s500x750/db200d8b8c81e7294610fce6f7088cf6dfad0b27.gif');
+  --accent: 239,11,243;
+  --accent-alt: 93,0,237;
+  --background-solid: #05070E;
+  --background-solid-dark: #090F21;
+  --background-solid-darker: #0c0e12;
+}
+
+/* Any custom CSS below here */
+
